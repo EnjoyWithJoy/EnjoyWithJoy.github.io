@@ -1,8 +1,8 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `Joy의 오답노트`,
   description: `Blog posted about ...`,
-  author: `[Your Name]`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  author: `Joy Cho`,
+  introduction: `하루의 오답을 기록하고 기억하는 공간입니다.`,
   siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
@@ -21,7 +21,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'joy',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
